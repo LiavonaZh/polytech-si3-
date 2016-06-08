@@ -1,5 +1,8 @@
 package ads.lab6;
 
+import ads.heap.BinaryHeap;
+import ads.heap.EmptyHeapException;
+
 /**
  * A class for the heap sort algorithm.
  */
